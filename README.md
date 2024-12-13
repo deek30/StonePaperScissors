@@ -26,5 +26,4 @@ https://deek30.github.io/StonePaperScissors/
 - **HTML5**: Structuring the web page.
 - **CSS3**: Styling and responsive design.
 
-##Demo
 
