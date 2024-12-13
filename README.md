@@ -1,6 +1,9 @@
 # Stone Paper Scissors
 A fun and interactive implementation of the classic game!
 
+## Deployed link
+https://deek30.github.io/StonePaperScissors/
+
 ## Features
 
 - Single-player mode: Play against the computer.
